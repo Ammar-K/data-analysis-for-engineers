@@ -2,7 +2,7 @@
 
 ## Source 
 
-The from (Openvm)[https://openmv.net/] part of (Process Improvment Using Data)[https://learnche.org/]
+The from [Openvm](https://openmv.net/) part of [Process Improvment Using Data](https://learnche.org/)
 
 - Contact details:	kgdunn@gmail.com
 - Added here on:	09 January 2011 8:48
